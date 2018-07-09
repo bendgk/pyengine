@@ -1,0 +1,2 @@
+import glfw
+class Window:
